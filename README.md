@@ -1,4 +1,4 @@
-# 机场节点可用率实测：宣传 172 个节点，实测能用多少 (updated 2026-10-28)
+# 机场节点可用率实测：宣传 172 个节点，实测能用多少 (updated 2026-11-04)
 
 > 2026-10-17 同一晚、同一网络环境，逐节点实测三家机场合计 172 个节点 —— 可用率从 100% 到 31% 不等
 
@@ -291,7 +291,7 @@
 
 - **15** entries across **6** sections.
 - Compiled from public sources; every linked project carries its own license.
-- Last updated: **2026-10-28**.
+- Last updated: **2026-11-04**.
 - Data lives in `data/content.json` — this README is generated, do not edit by hand.
 
 ## License
